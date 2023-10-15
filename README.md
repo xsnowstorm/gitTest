@@ -1,2 +1,2 @@
 # gitTest
-hello
+This is a test
